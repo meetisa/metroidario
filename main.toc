@@ -1,2 +1,39 @@
-\contentsline {section}{\numberline {1}Trama generale}{4}{section.1}% 
+\contentsline {section}{\numberline {1}Trama generale (non spoiler)}{5}{section.1}% 
 \contentsline {section}{\numberline {2}Trama dettagliata (spoiler)}{5}{section.2}% 
+\contentsline {section}{\numberline {3}Armi e poteri}{6}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Armatura speciale: capiamo}{6}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Spada del tocca}{6}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Pistola spara agneddoti}{6}{subsection.3.3}% 
+\contentsline {subsection}{\numberline {3.4}Bombe pefforza}{6}{subsection.3.4}% 
+\contentsline {subsection}{\numberline {3.5}Poteri della gatta}{6}{subsection.3.5}% 
+\contentsline {section}{\numberline {4}Mostri}{7}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Vermi del cringe}{7}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}NiSBoMO (Non Sono Blob Ma Ok)}{7}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Foto palle}{7}{subsection.4.3}% 
+\contentsline {section}{\numberline {5}Mappa}{8}{section.5}% 
+\contentsline {section}{\numberline {6}Miniboss}{9}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}Sweet gang}{9}{subsection.6.1}% 
+\contentsline {subsubsection}{\numberline {6.1.1}Descrizione e design}{9}{subsubsection.6.1.1}% 
+\contentsline {subsubsection}{\numberline {6.1.2}Fase 1}{9}{subsubsection.6.1.2}% 
+\contentsline {subsection}{\numberline {6.2}Incinta}{10}{subsection.6.2}% 
+\contentsline {subsubsection}{\numberline {6.2.1}Descrizione e design}{10}{subsubsection.6.2.1}% 
+\contentsline {subsection}{\numberline {6.3}Fase 1}{10}{subsection.6.3}% 
+\contentsline {subsection}{\numberline {6.4}Uomo del parcheggio}{11}{subsection.6.4}% 
+\contentsline {subsubsection}{\numberline {6.4.1}Descrizione e design}{11}{subsubsection.6.4.1}% 
+\contentsline {subsubsection}{\numberline {6.4.2}Fase 1}{11}{subsubsection.6.4.2}% 
+\contentsline {section}{\numberline {7}Boss}{12}{section.7}% 
+\contentsline {subsection}{\numberline {7.1}Sivaletto}{12}{subsection.7.1}% 
+\contentsline {subsubsection}{\numberline {7.1.1}Descrizione e design}{12}{subsubsection.7.1.1}% 
+\contentsline {subsubsection}{\numberline {7.1.2}Fase 1}{12}{subsubsection.7.1.2}% 
+\contentsline {subsection}{\numberline {7.2}Is possible}{13}{subsection.7.2}% 
+\contentsline {subsubsection}{\numberline {7.2.1}Descrizione e design}{13}{subsubsection.7.2.1}% 
+\contentsline {subsubsection}{\numberline {7.2.2}Fase 1}{13}{subsubsection.7.2.2}% 
+\contentsline {subsection}{\numberline {7.3}Your-name}{14}{subsection.7.3}% 
+\contentsline {subsubsection}{\numberline {7.3.1}Descrizione e design}{14}{subsubsection.7.3.1}% 
+\contentsline {subsubsection}{\numberline {7.3.2}Fase 1}{14}{subsubsection.7.3.2}% 
+\contentsline {section}{\numberline {8}Boss finale}{15}{section.8}% 
+\contentsline {subsection}{\numberline {8.1}Descrizione e design}{15}{subsection.8.1}% 
+\contentsline {subsection}{\numberline {8.2}Fase 1}{15}{subsection.8.2}% 
+\contentsline {subsection}{\numberline {8.3}Fase 2}{15}{subsection.8.3}% 
+\contentsline {subsection}{\numberline {8.4}Fase 3}{15}{subsection.8.4}% 
+\contentsline {subsection}{\numberline {8.5}Fase finale}{16}{subsection.8.5}% 

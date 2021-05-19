@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.3.11)  19 MAY 2021 10:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.3.11)  19 MAY 2021 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -140,7 +140,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip43
 )
-(./main.aux (./trama.aux))
+(./main.aux (./trama.aux) (./armi.aux) (./mostri.aux) (./mappa.aux)
+(./boss/sweet-gang.aux) (./boss/incinta.aux) (./boss/parcheggio.aux)
+(./boss/sivaletto.aux) (./boss/possible.aux) (./boss/your-name.aux)
+(./boss/tuffi.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -158,8 +161,7 @@ LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 10.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 \AtBeginShipoutBox=\box27
@@ -199,55 +201,160 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
  (./main.toc
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
 )
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
  [2]
 [3]
+Overfull \hbox (2.42592pt too wide) in paragraph at lines 17--19
+\OT1/phv/m/n/10 prodotto dalla com-mu-nity di Dario Moc-cia. \OT1/phv/b/n/10 Co
+n-tiene enormi spoiler sul gioco. 
+ []
+
+[4]
 \openout2 = `trama.aux'.
 
- (./trama.tex [4
+ (./trama.tex
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 9.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+
+ []
+
+) [5
 
 ]
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 10.
+\openout2 = `armi.aux'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--17
+ (./armi.tex
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 19.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsphv.fd
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
+)
+[6
+
+
+]
+\openout2 = `mostri.aux'.
+
+ (./mostri.tex) [7
+
+
+]
+\openout2 = `mappa.aux'.
+
+ (./mappa.tex) [8
+
+
+]
+\openout2 = `boss/sweet-gang.aux'.
+
+ (./boss/sweet-gang.tex) [9
+
+
+]
+\openout2 = `boss/incinta.aux'.
+
+
+(./boss/incinta.tex) [10
+
+
+]
+\openout2 = `boss/parcheggio.aux'.
+
+ (./boss/parcheggio.tex) [11
+
+
+]
+\openout2 = `boss/sivaletto.aux'.
+
+ (./boss/sivaletto.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
+) [12
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--17
+
+]
+\openout2 = `boss/possible.aux'.
+
+ (./boss/possible.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-) [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
- (./main.aux (./trama.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
+) [13
+
+
+]
+\openout2 = `boss/your-name.aux'.
+
+ (./boss/your-name.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+) [14
+
+
+]
+\openout2 = `boss/tuffi.aux'.
+
+ (./boss/tuffi.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+[15
+
+
+]) [16]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 38.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 38.
+ (./main.aux (./trama.aux) (./armi.aux) (./mostri.aux) (./mappa.aux)
+(./boss/sweet-gang.aux) (./boss/incinta.aux) (./boss/parcheggio.aux)
+(./boss/sivaletto.aux) (./boss/possible.aux) (./boss/your-name.aux)
+(./boss/tuffi.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 38.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 38.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 67DA08E909BF2978F7202F79C9868D7D;113.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
+(rerunfilecheck)             Checksum: 883587C3979020C0FB0D3B545B6FDED2;2468.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 38.
  ) 
 Here is how much of TeX's memory you used:
- 4313 strings out of 492615
- 64527 string characters out of 6131390
- 150264 words of memory out of 5000000
- 8217 multiletter control sequences out of 15000+600000
- 16260 words of font info for 35 fonts, out of 8000000 for 9000
+ 4501 strings out of 492615
+ 67279 string characters out of 6131390
+ 159916 words of memory out of 5000000
+ 8282 multiletter control sequences out of 15000+600000
+ 17893 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,30p,185b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,30p,199b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (5 pages, 25632 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/h
+elvetic/uhvro8a.pfb>
+Output written on main.pdf (16 pages, 51590 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 305 PDF objects out of 1000 (max. 8388607)
+ 280 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 313 words of extra memory for PDF output out of 10000 (max. 10000000)
 
